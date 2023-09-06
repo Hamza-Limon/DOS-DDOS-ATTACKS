@@ -66,7 +66,7 @@ DNS flood saldırılarının ana özellikleri ve detayları şunlar olabilir:
 
 
 
-> Siber suçluların bir web sitesini veya çevrimiçi hizmeti erişilemez noktaya nasıl getirebildiğini hiç merak ettiniz mi? Bugün DNS Flood saldırısının nasıl çalıştığını açıklayacağız
+>Aşagıdaki görselde siber suçluların bir web sitesini veya çevrimiçi hizmeti erişilemez noktaya nasıl getirebildiğini görebiliriz.
 
 
 ![moved](https://github.com/Hamza-Limon/DOS-DDOS-ATTACKS/assets/140405710/6f0fe804-f5ec-493e-98bf-95a8c920212b)
